@@ -12,7 +12,7 @@ $(document).on('ready', function(){
                 required: true,
                 maxlength: 128
             },
-            "your-state": {
+			"your-state": {
                 required: true,
                 maxlength: 2
             },
